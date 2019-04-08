@@ -1,0 +1,11 @@
+j=1
+for i in list('bucky'):
+    for j==1:
+      print i ,  j, "st letter in word bucky"
+    for j==2:
+      print i, j, "nd letter in word bucky"
+    for j==3: 
+      print i, j, "rd letter in word bucky"
+    for j>3:
+      print i, j,"th letter in word bucky"
+    j=j+1
